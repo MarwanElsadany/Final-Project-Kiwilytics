@@ -1,0 +1,92 @@
+"customerid","customername","contactname","address","city","postalcode","country"
+1,alfreds futterkiste,maria anders,obere str. 57,berlin,"12209",germany
+2,ana trujillo emparedados y helados,ana trujillo,avda. de la constitución 2222,méxico d.f.,"05021",mexico
+3,antonio moreno taquería,antonio moreno,mataderos 2312,méxico d.f.,"05023",mexico
+4,around the horn,thomas hardy,"120 hanover sq.",london,wa1 1dp,uk
+5,berglunds snabbköp,christina berglund,berguvsvägen 8,luleå,s-958 22,sweden
+6,blauer see delikatessen,hanna moos,forsterstr. 57,mannheim,"68306",germany
+7,blondel père et fils,frédérique citeaux,"24, place kléber",strasbourg,"67000",france
+8,bólido comidas preparadas,martín sommer,"c/ araquil, 67",madrid,"28023",spain
+9,bon app',laurence lebihans,"12, rue des bouchers",marseille,"13008",france
+10,bottom-dollar marketse,elizabeth lincoln,"23 tsawassen blvd.",tsawassen,t2f 8m4,canada
+11,b's beverages,victoria ashworth,fauntleroy circus,london,ec2 5nt,uk
+12,cactus comidas para llevar,patricio simpson,cerrito 333,buenos aires,"1010",argentina
+13,centro comercial moctezuma,francisco chang,sierras de granada 9993,méxico d.f.,"05022",mexico
+14,chop-suey chinese,yang wang,hauptstr. 29,bern,"3012",switzerland
+15,comércio mineiro,pedro afonso,"av. dos lusíadas, 23",são paulo,"05432-043",brazil
+16,consolidated holdings,elizabeth brown,berkeley gardens 12 brewery,london,wx1 6lt,uk
+17,drachenblut delikatessend,sven ottlieb,walserweg 21,aachen,"52066",germany
+18,du monde entier,janine labrune,"67, rue des cinquante otages",nantes,"44000",france
+19,eastern connection,ann devon,"35 king george",london,wx3 6fw,uk
+20,ernst handel,roland mendel,kirchgasse 6,graz,"8010",austria
+21,familia arquibaldo,aria cruz,"rua orós, 92",são paulo,"05442-030",brazil
+22,fissa fabrica inter. salchichas s.a.,diego roel,"c/ moralzarzal, 86",madrid,"28034",spain
+23,folies gourmandes,martine rancé,"184, chaussée de tournai",lille,"59000",france
+24,folk och fä hb,maria larsson,åkergatan 24,bräcke,s-844 67,sweden
+25,frankenversand,peter franken,berliner platz 43,münchen,"80805",germany
+26,france restauration,carine schmitt,"54, rue royale",nantes,"44000",france
+27,franchi s.p.a.,paolo accorti,via monte bianco 34,torino,"10100",italy
+28,furia bacalhau e frutos do mar,lino rodriguez,jardim das rosas n. 32,lisboa,"1675",portugal
+29,galería del gastrónomo,eduardo saavedra,"rambla de cataluña, 23",barcelona,"08022",spain
+30,godos cocina típica,josé pedro freyre,"c/ romero, 33",sevilla,"41101",spain
+31,gourmet lanchonetes,andré fonseca,"av. brasil, 442",campinas,"04876-786",brazil
+32,great lakes food market,howard snyder,"2732 baker blvd.",eugene,"97403",usa
+33,grosella-restaurante,manuel pereira,"5ª ave. los palos grandes",caracas,"1081",venezuela
+34,hanari carnes,mario pontes,"rua do paço, 67",rio de janeiro,"05454-876",brazil
+35,hilarión-abastos,carlos hernández,carrera 22 con ave. carlos soublette #8-35,san cristóbal,"5022",venezuela
+36,hungry coyote import store,yoshi latimer,city center plaza 516 main st.,elgin,"97827",usa
+37,hungry owl all-night grocers,patricia mckenna,"8 johnstown road",cork,"",ireland
+38,island trading,helen bennett,garden house crowther way,cowes,po31 7pj,uk
+39,königlich essen,philip cramer,maubelstr. 90,brandenburg,"14776",germany
+40,la corne d'abondance,daniel tonini,"67, avenue de l'europe",versailles,"78000",france
+41,la maison d'asie,annette roulet,"1 rue alsace-lorraine",toulouse,"31000",france
+42,laughing bacchus wine cellars,yoshi tannamuri,"1900 oak st.",vancouver,v3f 2k1,canada
+43,lazy k kountry store,john steel,"12 orchestra terrace",walla walla,"99362",usa
+44,lehmanns marktstand,renate messner,magazinweg 7,frankfurt a.m.,"60528",germany
+45,let's stop n shop,jaime yorres,"87 polk st. suite 5",san francisco,"94117",usa
+46,lila-supermercado,carlos gonzález,carrera 52 con ave. bolívar #65-98 llano largo,barquisimeto,"3508",venezuela
+47,lino-delicateses,felipe izquierdo,ave. 5 de mayo porlamar,i. de margarita,"4980",venezuela
+48,lonesome pine restaurant,fran wilson,"89 chiaroscuro rd.",portland,"97219",usa
+49,magazzini alimentari riuniti,giovanni rovelli,via ludovico il moro 22,bergamo,"24100",italy
+50,maison dewey,catherine dewey,rue joseph-bens 532,bruxelles,b-1180,belgium
+51,mère paillarde,jean fresnière,"43 rue st. laurent",montréal,h1j 1c3,canada
+52,morgenstern gesundkost,alexander feuer,heerstr. 22,leipzig,"04179",germany
+53,north/south,simon crowther,south house 300 queensbridge,london,sw7 1rz,uk
+54,océano atlántico ltda.,yvonne moncada,ing. gustavo moncada 8585 piso 20-a,buenos aires,"1010",argentina
+55,old world delicatessen,rene phillips,"2743 bering st.",anchorage,"99508",usa
+56,ottilies käseladen,henriette pfalzheim,mehrheimerstr. 369,köln,"50739",germany
+57,paris spécialités,marie bertrand,"265, boulevard charonne",paris,"75012",france
+58,pericles comidas clásicas,guillermo fernández,calle dr. jorge cash 321,méxico d.f.,"05033",mexico
+59,piccolo und mehr,georg pipps,geislweg 14,salzburg,"5020",austria
+60,princesa isabel vinhoss,isabel de castro,estrada da saúde n. 58,lisboa,"1756",portugal
+61,que delícia,bernardo batista,"rua da panificadora, 12",rio de janeiro,"02389-673",brazil
+62,queen cozinha,lúcia carvalho,"alameda dos canàrios, 891",são paulo,"05487-020",brazil
+63,quick-stop,horst kloss,taucherstraße 10,cunewalde,"01307",germany
+64,rancho grande,sergio gutiérrez,av. del libertador 900,buenos aires,"1010",argentina
+65,rattlesnake canyon grocery,paula wilson,"2817 milton dr.",albuquerque,"87110",usa
+66,reggiani caseifici,maurizio moroni,strada provinciale 124,reggio emilia,"42100",italy
+67,ricardo adocicados,janete limeira,"av. copacabana, 267",rio de janeiro,"02389-890",brazil
+68,richter supermarkt,michael holz,grenzacherweg 237,genève,"1203",switzerland
+69,romero y tomillo,alejandra camino,"gran vía, 1",madrid,"28001",spain
+70,santé gourmet,jonas bergulfsen,erling skakkes gate 78,stavern,"4110",norway
+71,save-a-lot markets,jose pavarotti,"187 suffolk ln.",boise,"83720",usa
+72,seven seas imports,hari kumar,"90 wadhurst rd.",london,ox15 4nb,uk
+73,simons bistro,jytte petersen,vinbæltet 34,københavn,"1734",denmark
+74,spécialités du monde,dominique perrier,"25, rue lauriston",paris,"75016",france
+75,split rail beer & ale,art braunschweiger,p.o. box 555,lander,"82520",usa
+76,suprêmes délices,pascale cartrain,"boulevard tirou, 255",charleroi,b-6000,belgium
+77,the big cheese,liz nixon,"89 jefferson way suite 2",portland,"97201",usa
+78,the cracker box,liu wong,"55 grizzly peak rd.",butte,"59801",usa
+79,toms spezialitäten,karin josephs,luisenstr. 48,münster,"44087",germany
+80,tortuga restaurante,miguel angel paolino,avda. azteca 123,méxico d.f.,"05033",mexico
+81,tradição hipermercados,anabela domingues,"av. inês de castro, 414",são paulo,"05634-030",brazil
+82,trail's head gourmet provisioners,helvetius nagy,"722 davinci blvd.",kirkland,"98034",usa
+83,vaffeljernet,palle ibsen,smagsløget 45,århus,"8200",denmark
+84,victuailles en stock,mary saveley,"2, rue du commerce",lyon,"69004",france
+85,vins et alcools chevalier,paul henriot,"59 rue de l'abbaye",reims,"51100",france
+86,die wandernde kuh,rita müller,adenauerallee 900,stuttgart,"70563",germany
+87,wartian herkku,pirkko koskitalo,torikatu 38,oulu,"90110",finland
+88,wellington importadora,paula parente,"rua do mercado, 12",resende,"08737-363",brazil
+89,white clover markets,karl jablonski,"305 - 14th ave. s. suite 3b",seattle,"98128",usa
+90,wilman kala,matti karttunen,keskuskatu 45,helsinki,"21240",finland
+91,wolski,zbyszek,ul. filtrowa 68,walla,"01-012",poland
